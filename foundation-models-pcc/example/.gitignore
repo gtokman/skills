@@ -1,0 +1,4 @@
+build/
+*.xcodeproj/
+PCCPlayground/Info.plist
+.DS_Store
